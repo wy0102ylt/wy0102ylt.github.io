@@ -139,3 +139,53 @@
 [A Compiler-level Intermediate Representation based Binary Analysis and Rewriting System](http://terpconnect.umd.edu/~barua/anand-EUROSYS-2013.pdf)
 
 [Scalable variable and data type detection in a binary rewriter](http://www.ece.umd.edu/~kapil/pdf/pldi2013.pdf)
+
+#### 2016.3.1
+
+[PIFT: Predictive Information-Flow Tracking](http://web.engr.illinois.edu/~mkyoon/paper/ASPLOS2016_PIFT.pdf)
+
+[discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code](https://net.cs.uni-bonn.de/fileadmin/ag/martini/Staff/yakdan/discovre_ndss2016.pdf)
+
+[mov is Turing-complete](http://www.cl.cam.ac.uk/~sd601/papers/mov.pdf)
+
+[HERMES: a fast cross-ISA binary translator with post-optimization](http://dl.acm.org/citation.cfm?id=2738631)
+
+[Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.internetsociety.org/sites/default/files/blogs-media/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf)
+
+[You are a Game Bot!:  Uncovering Game Bots in MMORPGs via Self-similarity in the Wild ](https://www.internetsociety.org/sites/default/files/blogs-media/you-are-game-bot-uncovering-game-bots-mmorpgs-via-self-similarity-wild.pdf)
+
+[How to Make ASLR Win the Clone Wars: Runtime Re-Randomization](http://www.cc.gatech.edu/~klu38/publications/runtimeaslr-ndss16.pdf)
+
+[Missing the Point(er): On the Effectiveness of Code Pointer Integrity](https://people.csail.mit.edu/rinard/paper/oakland15.pdf)
+
+[LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis](https://www.internetsociety.org/sites/default/files/blogs-media/lo-phi-low-observable-physical-host-instrumentation-malware-analysis.pdf)
+
+[Lifting Assembly to Intermediate Representation: A Novel Approach Leveraging Compilers](http://120.52.72.38/www.seclab.cs.sunysb.edu/c3pr90ntcsf0/seclab/pubs/lisc.pdf)
+
+[Binary Translation Using Peephole Superoptimizers](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/bansal/bansal.pdf)
+
+[Ksplice: automatic rebootless kernel updates](https://www.ksplice.com/doc/ksplice.pdf)
+
+[A few billion lines of code later: using static analysis to find bugs in the real world](http://dl.acm.org/citation.cfm?id=1646374)
+
+[A few billion lines of code later: using static analysis to find bugs in the real world](http://dl.acm.org/citation.cfm?id=1646374)
+
+[It's a TRaP: Table Randomization and Protection against Function-Reuse Attacks](http://dl.acm.org/citation.cfm?id=2813682)
+
+[Feature-based Software Customization: PreliminaryAnalysis, Formalization, and Methods](https://faculty.ist.psu.edu/wu/papers/jcut-hase2016.pdf)
+
+[Versatile yet Lightweight Record-and-Replay for Android](http://www.cs.ucr.edu/~yhu009/papers/oopsla15hu.pdf)
+
+#### 2016.4.1
+
+[Eternal sunshine of the spotless machine: Protecting privacy with ephemeral channels](https://www.cs.utexas.edu/~adunn/pubs/dunn12osdi-lacuna-slides.pdf)
+
+#### 2016.4.15
+
+[Automated Repair of Binary and Assembly Programs for Cooperating Embedded Devices](https://www.cs.virginia.edu/~weimer/p/schulte2013embedded.pdf)
+
+[Extract Me If You Can: Abusing PDF Parsers in Malware Detectors](https://www.internetsociety.org/sites/default/files/blogs-media/extract-me-if-you-can-abusing-pdf-parsers-malware-detectors.pdf)
+
+[Checking Correctness of Code Generator Architecture Specifications](http://seclab.cs.sunysb.edu/seclab/pubs/cgo15.pdf)
+
+[(State of)The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)
