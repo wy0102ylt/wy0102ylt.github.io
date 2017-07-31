@@ -1,127 +1,72 @@
 # 信息安全资料 
 
-## 更新时间 2017-7-30
+## 更新时间 2017-7-31
 
-[Advanced Penetration Testing for Highly-Secured Environments]()（414 pages）
+[SoK: Systematic Classiﬁcation of Side-Channel Attacks on Mobile Devices]( https://arxiv.org/pdf/1611.03748.pdf)
 
-[Advanced Persistent Training]()（102 pages）
+[2016’s Mobile Threat Landscape Brings Diversity, Scale, and Scope - TrendLabs Security Intelligence Blog]( http://blog.trendmicro.com/trendlabs-security-intelligence/2016-mobile-threat-landscape/)
 
-[Android Hacker's Handbook]()（577 pages）
+[Reversing the Parrot SkyController Firmware]( http://thecyberrecce.net/2017/01/09/reversing-the-parrot-skycontroller-firmware/)
 
-[Android Security Attacks and Defenses]()（272 pages）
+[Exploiting IoT enabled BLE smart bulb security - IoT Exploitation and Mobile Security Pentesting by Attify]( http://blog.attify.com/2017/01/17/exploiting-iot-enabled-ble-smart-bulb-security/)
 
-[Beginning Ruby]()（476 pages）
+[Danfoss Wireless Thermostat Hacking – Part One | Hacking at Home]( https://hackingathome.wordpress.com/2017/01/14/danfoss-wireless-thermostat-hacking-part-one/)
 
-[Big Data Forensics - Learning Hadoop Investigations]()（264 pages）
+[ON GENERATING GADGET CHAINS FOR RETURN-ORIENTED PROGRAMMING]( http://tuprints.ulb.tu-darmstadt.de/5906/1/Andreas%20Follner%20-%20Dissertation%20-%20Final.pdf)
 
-[Building Virtual Pentesting Labs for Advanced Penetration Testing]()（430 pages）
+[SoK: Exploiting Network Printers]( https://www.nds.rub.de/media/ei/veroeffentlichungen/2017/01/30/printer-security.pdf)
 
-[CISSP All-in-One Exam Guide, 7th Edition]()（1,324 pages）
+[IMPROVING MOBILE-MALWARE INVESTIGATIONS WITH STATIC AND DYNAMIC CODE ANALYSIS TECHNIQUES]( http://tuprints.ulb.tu-darmstadt.de/5911/1/Phd-Thesis-Rasthofer.pdf)
 
-[Cloud Security and Privacy]()（336 pages）
+[REV.NG : A Unified Binary Analysis Framework to Recover CFGs and Function Boundaries]( https://nebelwelt.net/publications/files/17CC.pdf)
 
-[Cyber Security- Analytics, Technology and Automation]()（268 pages）
+[Reverse engineering a Java Card memory management algorithm]( http://www.sciencedirect.com/science/article/pii/S0167404817300093)
 
-[Cyber Security on Azure]()（217 pages）
+[利用漏洞解锁锤子T1/2手机的bootloader]( http://weibo.com/ttarticle/p/show?id=2309404072178134986378)
 
-[Cybersecurity for Hospitals and Healthcare Facilities]()（147 pages）
+[Owning a Locked OnePlus 3/3T: Bootloader Vulnerabilities]( https://securityresear.ch/2017/02/08/oneplus3-bootloader-vulns/)
 
-[Cyberspace and Cybersecurity]()（230 pages）
+[Cold Boot Attacks are Still Hot: Security Analysis of Memory Scramblers in Modern Processors]( http://web.eecs.umich.edu/~taustin/papers/HPCA17-coldboot.pdf)
 
-[Distributed Networks- Intelligence, Security, and Applications]()（399 pages）
+[Ramblr: Making Reassembly Great Again]( https://seclab.cs.ucsb.edu/media/uploads/papers/ramblr-ndss17.pdf)
 
-[Enterprise Cybersecurity]()（508 pages）
+[Show Me the Money! Finding Flawed Implementations of Third-party In-app Payment in Android Apps]( https://www.internetsociety.org/sites/default/files/ndss2017_05A-2_Yang_paper.pdf)
 
-[Exploring SE for Android]()（379 pages）
+[Hey, My Malware Knows Physics! Attacking PLCs with Physical Model Aware Rootkit]( https://www.internetsociety.org/sites/default/files/ndss2017_08-1_Garcia_paper.pdf)
 
-[Foundations of Python Network Programming, 3rd Edition]()（369 pages）
+[ASLR^Cache: Practical Cache Attacks on the MMU]( https://www.internetsociety.org/sites/default/files/ndss2017_09-1_Gras_paper.pdf)
 
-[From Hacking to Report Writing]()（204 pages）
+[GRIFFIN: Guarding Control Flows Using Intel Processor Trace]( https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/griffin-asplos17.pdf)
 
-[Hacking Exposed Linux, 3rd Edition]()（649 pages）
+[Cryptographic Function Detection in Obfuscated Binaries via Bit-precise Symbolic Loop Mapping]( https://faculty.ist.psu.edu/wu/papers/CryptoHunt.pdf)
 
-[Hacking Exposed Web Applications, 3rd Edition]()（481 pages）
+[SPAIN: Security Patch Analysis for Binaries Towards Understanding the Pain and Pills]( http://sist.shanghaitech.edu.cn/faculty/songfu/publications/icse17.pdf)
 
-[Hacking Exposed Windows, 3rd Edition]()（482 pages）
+[Collusive Data Leak and More: Large-scale Threat Analysis of Inter-app Communications]( http://people.cs.vt.edu/danfeng/papers/AsiaCCS-17-Yao.pdf)
 
-[Hacking Exposed, 6th Edition]()（720 pages）
+[LibD: Scalable and Precise Third-party Library Detection in Android Markets]( https://faculty.ist.psu.edu/wu/papers/LibD.pdf)
 
-[Hacking Exposed Web 2.0]()（290 pages）
+[Android Privacy C(R)ache: Reading your External Storage and Sensors for Fun and Proﬁt]( http://dl.acm.org/citation.cfm?id=2940346)
 
-[Hacking For Dummies, 4th Edition]()（411 pages）
+[Unleashing Use-Before-Initialization Vulnerabilities in the Linux Kernel Using Targeted Stack Spraying]( https://www.cc.gatech.edu/~klu38/publications/ubi-ndss17.pdf)
 
-[HII Man In The Cloud Attacks]()（16 pages）
+[WindowGuard: Systematic Protection of GUI Security in Android]( http://www.cse.psu.edu/~sxz16/papers/ndss2017.pdf)
 
-[Inside Cyber Warfare, 2nd Edition]()（316 pages）
+[Nail: A Practical Tool for Parsing and Generating Data Formats]( https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-bangert.pdf)
 
-[Instant Penetration Testing]()（88 pages）
+[Operating Systems for Low-End Devices in the Internet of Things: a Survey]( http://ieeexplore.ieee.org/document/7347318/?reload=true)
 
-[Intermediate Security Testing with Kali Linux 2]()（433 pages）
+[SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems (2016 Edition)]( http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
 
-[Kali Linux CTF Blueprints]()（190 pages）
+[SEI CERT C++ Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems in C++ (2016 Edition)]( http://www.cert.org/secure-coding/products-services/secure-coding-cpp-download-2016.cfm)
 
-[Kali Linux Network Scanning Cookbook]()（452 pages）
+[From off-the-shelf embedded devices to research platforms. Two case studies: a PLC and a SSD]( http://www.sharcs-project.eu/m/documents/papers/a01-cojocar.pdf)
 
-[Learning Python Network Programming]()（320 pages）
+[How I Hacked an Android App to Get Free Beer]( https://breakdev.org/how-i-hacked-an-android-app-to-get-free-beer/)
 
-[Learning Metasploit Exploitation and Development]()（294 pages）
 
-[Learning Network Forensics]()（274 pages）
+[Content Masking Attack Against Information-Based Online Services](http://csa.eng.usf.edu/getsrc/?n=papers/17msl-security.pdf)
 
-[Learning Pentesting for Android Devices]()（154 pages）
+[BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking](https://faculty.ist.psu.edu/wu/papers/BinSim.pdf)
 
-[Mastering Python Forensics]()（192 pages）
-
-[Mastering Wireless Penetration Testing for Highly-Secured Environments]()（220 pages）
-
-[Network Security Assessment, 3rd edition]()（296 pages）
-
-[Network Attacks and Defenses- A Hands-on Approach]()（452 pages）
-
-[Network Forensics]()（76 pages）
-
-[Network Security Assessment, 2nd Edition]()（506 pages）
-
-[Network Security Hacks, 2nd Edition]()（480 pages）
-
-[ntds_forensics]()（24 pages）
-
-[Penetration Testing]()（531 pages）
-
-[Penetration Testing with Raspberry Pi]()（208 pages）
-
-[Penetration Testing with the Bash shell]()（151 pages）
-
-[Python Hacking Essentials]()（266 pages）
-
-[Python Network Programming Cookbook]()（234 pages）
-
-[Python Penetration Testing Essentials]()（178 pages）
-
-[Ruby on Rails Enterprise Application Development]()（525 pages）
-
-[Ruby Performance Optimization]()（197 pages）
-
-[Security and Privacy for Mobile Healthcare Networks]()（130 pages）
-
-[Security Intelligence]()（363 pages）
-
-[The Hacker Playbook 2- Practical Guide To Penetration Testing]()（398 pages）
-
-[The Hacker Playbook Practical Guide To Penetration Testing]()（214 pages）
-
-[The Browser Hacker-s Handbook]()（650 pages）
-
-[The InfoSec Handbook]()（376 pages）
-
-[Thesis]()（74 pages）
-
-[VMware vCloud Security]()（114 pages）
-
-[Wireshark Network Analysis- The Official Wireshark Certified Network Analyst Study Guide, 2nd Edition]()（461 pages）
-
-[Content Masking Attack Against Information-Based Online Services](http://csa.eng.usf.edu/getsrc/?n=papers/17msl-security.pdf)（15 pages）
-
-[BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking](https://faculty.ist.psu.edu/wu/papers/BinSim.pdf)（18 pages）
-
-[CDFBH](https://131002.net/data/talks/CDFBH.pdf)（ pages）
+[Automated Testing of Crypto Software Using Differential Fuzzing](https://131002.net/data/talks/CDFBH.pdf)
