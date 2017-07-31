@@ -253,3 +253,16 @@
 
 [Poking Holes in Info hiding](https://www.semanticscholar.org/paper/Poking-Holes-in-Information-Hiding-Oikonomopoulos-Athanasopoulos/38d5f91d76cd4c23c5382c07b34885e7b51118f4)
 
+#### 2016.9.1
+
+[Statistical Similarity of Binary code](http://eecs.qmul.ac.uk/~nikost/wpe2016/slides/nimrod.pdf)
+
+#### 2016.9.6
+
+[StraightTaint: Decoupled Offline Symbolic Taint Analysis](https://faculty.ist.psu.edu/wu/papers/StraightTaint-ASE16.pdf)
+
+[SoK: Automated Software Diversity](http://www.ieee-security.org/TC/SP2014/papers/SoK_c_AutomatedSoftwareDiversity.pdf)
+
+#### 2016.9.13
+
+[Automatically Detecting Error Handling Bugs using Error Specifications](http://sumanj.info/docs/epex.pdf)
