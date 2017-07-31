@@ -1,4 +1,4 @@
-![](https://i.screenshot.net/je0p5sq)
+![](http://chuantu.biz/t5/156/1501500885x2890174429.png)
 
 # 信息安全资料 
 
