@@ -1,5 +1,4 @@
-title:信息安全资料
-
+![](https://i.screenshot.net/w1ywoi9)
 # 信息安全资料 
 
 ## 更新时间 2017-7-31
