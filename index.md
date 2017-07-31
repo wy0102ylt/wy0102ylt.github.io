@@ -70,10 +70,10 @@
 2017-0033 [BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking](https://faculty.ist.psu.edu/wu/papers/BinSim.pdf)
 
 2017-0034 [Automated Testing of Crypto Software Using Differential Fuzzing](https://131002.net/data/talks/CDFBH.pdf)
-
-
-
-
+ 
+ 
+ 
+ 
 ## GoSSIP小组论文阅读列表
 
 ### 2015.7.31
