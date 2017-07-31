@@ -239,5 +239,17 @@
 
 [Practical Memory Checking with Dr. Memory](http://www.burningcutlery.com/derek/docs/drmem-CGO11.pdf)
 
+#### 2016.8.2
 
+[TaintTrace: Efficient Flow Tracing with Dynamic Binary Rewriting](http://www.dynamorio.org/pubs/tainttrace-iscc06.pdf)
+
+[Dynamic Taint Analysis for Automatic Detection, Analysis, and Signature Generation of Exploits on Commodity Software](http://bitblaze.cs.berkeley.edu/papers/taintcheck-full.pdf)
+
+#### 2016.8.16
+
+[Automatically Learning Semantic Features for Defect Prediction](https://ece.uwaterloo.ca/~lintan/publications/deeplearn-icse16.pdf)
+
+[Micro-Virtualization Memory Tracing to Detect and Prevent Spraying Attacks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_cristalli.pdf)
+
+[Poking Holes in Info hiding](https://www.semanticscholar.org/paper/Poking-Holes-in-Information-Hiding-Oikonomopoulos-Athanasopoulos/38d5f91d76cd4c23c5382c07b34885e7b51118f4)
 
