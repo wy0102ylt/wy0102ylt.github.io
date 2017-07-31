@@ -189,3 +189,55 @@
 [Checking Correctness of Code Generator Architecture Specifications](http://seclab.cs.sunysb.edu/seclab/pubs/cgo15.pdf)
 
 [(State of)The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)
+
+#### 2016.5.1
+[Binary code is not easy](ftp://ftp.cs.wisc.edu/paradyn/papers/Meng15Parsing.pdf)
+
+[Automatic Error Elimination by Horizontal Code Transfer Across Multiple Applications](https://people.csail.mit.edu/rinard/paper/pldi15.pdf)
+
+[SeCReT: Secure Channel between Rich Execution Environment and Trusted Execution Environment](https://cysec.kaist.ac.kr/publications/[NDSS]SeCReT_Secure_channel_between_Rich_Execution_Environment_and_Trusted_Execution_Environment.pdf)
+
+[Uncertain? No, It’s Very Certain!](http://link.springer.com/chapter/10.1007/978-3-319-33630-5_21)
+
+[MobiPlay: a remote execution based record-and-replay tool for mobile applications](http://dl.acm.org/citation.cfm?id=2884854)
+
+[Reference hijacking: patching, protecting and analyzing on unmodified and non-rooted android devices](http://dl.acm.org/citation.cfm?id=2884863)
+
+[IntEQ: recognizing benign integer overflows via equivalence checking across multiple precisions](http://dl.acm.org/citation.cfm?id=2884820)
+
+[StubDroid: automatic inference of precise data-flow summaries for the android framework](http://dl.acm.org/citation.cfm?id=2884816)
+
+[A Survey on Software Refactorability through Software Clone Detection Tools and Techniques](http://ijtet.com/wp-content/plugins/ijtet/file/upload/docx/3996IJTET1301006-pdf.pdf)
+
+[Code parallelization through sequential code search](http://dl.acm.org/citation.cfm?id=2891045)
+
+[srcSlice: a tool for efficient static forward slicing](http://dl.acm.org/citation.cfm?id=2889173)
+
+[Rethinking verification: accuracy, efficiency and scalability through human-machine collaboration](http://dl.acm.org/citation.cfm?id=2891046)
+
+#### 2016.6.1
+
+[Backtracking Intrusions](https://web.eecs.umich.edu/virtual/papers/king03_1.pdf)
+
+#### 2016.6.6
+
+[Statistical Similarity of Binaries](http://www.cs.technion.ac.il/~yahave/papers/pldi16.pdf)
+
+[Helping Johnny to Analyze Malware--A Usability-Optimized Decompiler and Malware Analysis User Study](http://www.ieee-security.org/TC/SP2016/papers/0824a158.pdf)
+
+[Data-Oriented Programming: On the Expressiveness of Non-Control Data Attacks](https://www.comp.nus.edu.sg/~shweta24/publications/dop_oakland16.pdf)
+
+[LAVA: Large-scale Automated Vulnerability Addition](https://seclab.ccs.neu.edu/static/publications/sp2016lava.pdf)
+
+#### 2016.7.19
+
+[An In-Depth Analysis of Disassembly on Full-Scale x86/x64 Binaries](https://github.com/tpn/pdfs/blob/master/An%20In-Depth%20Analysis%20of%20Disassembly%20on%20Full-Scale%20x86-x64%20Binaries%20-%202016%20(sec16_paper_andriesse).pdf)
+
+#### 2016.7.26
+
+[Information Leaks Without Memory Disclosures: Remote Side Channel Attacks on Diversified Code](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.7657&rep=rep1&type=pdf)
+
+[Practical Memory Checking with Dr. Memory](http://www.burningcutlery.com/derek/docs/drmem-CGO11.pdf)
+
+
+
