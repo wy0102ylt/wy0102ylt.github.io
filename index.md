@@ -99,3 +99,43 @@
 [MalGene: Automatic Extraction of Malware Analysis Evasion Signature](https://pdfs.semanticscholar.org/4f09/377086284ffed61435d4c121e5d93ededbef.pdf)
 
 [Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware](http://www.syssec-project.eu/m/page-media/3/petsas_rage_against_the_virtual_machine.pdf)
+
+#### 2015.12.4
+[Cross-architecture Bug Search in Binary Executables](http://m.christian-rossow.de/publications/crossarch-ieee2015.pdf)
+
+[ASLR-Guard: Stopping Address Space Leakage for Code Reuse Attacks](https://sslab.gtisc.gatech.edu/assets/papers/2015/lu:aslrguard.pdf)
+
+#### 2015.12.31
+[Towards Automatic Inference of Kernel Object Semantics from Binary Code](https://www.utdallas.edu/~zxl111930/file/RAID15.pdf)
+
+[Timely Rerandomization for Mitigating Memory Disclosures](http://web.mit.edu/ha22286/www/papers/CCS15_2.pdf)
+
+### 2016
+
+#### 2016.1.7
+[When Every Byte Counts – Writing Minimal Length Shellcodes](https://www.researchgate.net/publication/282284055_When_Every_Byte_Counts_-_Writing_Minimal_Length_Shellcodes)
+
+[PIE: Parser Identification in Embedded Systems](http://www.s3.eurecom.fr/docs/acsac15_cojocar.pdf)
+
+#### 2016.1.22
+[Soteria: Offline Software Protection within Low-cost Embedded Devices](http://securewww.esat.kuleuven.be/cosic/publications/article-2570.pdf)
+
+[Remix: On-demand Live Randomization](http://ww2.cs.fsu.edu/~ychen/paper/Remix.pdf)
+
+[High System-Code Security with Low Overhead](http://www.cs.rhul.ac.uk/home/kinder/papers/oakland15.pdf)
+
+[Counterfeit object-oriented programming: On the difficulty of preventing code reuse attacks in C++ applications](http://syssec.rub.de/media/emma/veroeffentlichungen/2015/03/28/COOP-Oakland15.pdf)
+
+[Prophet: Automatic Patch Generation via Learning from Successful Patches](https://dspace.mit.edu/bitstream/handle/1721.1/97088/MIT-CSAIL-TR-2015-019.pdf?sequence=1)
+
+[Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1001&context=ece)
+
+[Repairing Programs with Semantic Code Search](https://people.cs.umass.edu/~brun/pubs/pubs/Ke15ase.pdf)
+
+[Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces](http://arxiv.org/pdf/1511.03609.pdf)
+
+[Translingual Obfuscation](http://arxiv.org/pdf/1601.00763.pdf)
+
+[A Compiler-level Intermediate Representation based Binary Analysis and Rewriting System](http://terpconnect.umd.edu/~barua/anand-EUROSYS-2013.pdf)
+
+[Scalable variable and data type detection in a binary rewriter](http://www.ece.umd.edu/~kapil/pdf/pldi2013.pdf)
