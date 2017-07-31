@@ -10,7 +10,7 @@
 
 2017-0004 [Exploiting IoT enabled BLE smart bulb security - IoT Exploitation and Mobile Security Pentesting by Attify]( http://blog.attify.com/2017/01/17/exploiting-iot-enabled-ble-smart-bulb-security/)
 
-2017-0005 [Danfoss Wireless Thermostat Hacking – Part One | Hacking at Home]( https://hackingathome.wordpress.com/2017/01/14/danfoss-wireless-thermostat-hacking-part-one/)
+2017-0005 [Danfoss Wireless Thermostat Hacking – Part One  Hacking at Home]( https://hackingathome.wordpress.com/2017/01/14/danfoss-wireless-thermostat-hacking-part-one/)
 
 2017-0006 [ON GENERATING GADGET CHAINS FOR RETURN-ORIENTED PROGRAMMING]( http://tuprints.ulb.tu-darmstadt.de/5906/1/Andreas%20Follner%20-%20Dissertation%20-%20Final.pdf)
 
@@ -75,21 +75,21 @@
 ## GoSSIP小组论文阅读列表
 
 ### 2015.7.31
-【支叶盛】[Analyzing Memory Accesses in x86 Executables](https://research.cs.wisc.edu/wpis/papers/cc04.pdf)
+[Analyzing Memory Accesses in x86 Executables](https://research.cs.wisc.edu/wpis/papers/cc04.pdf)
 
 ### 2015.8.28
-【胡易坤】[Turing Programs Against Each Other- High Coverage Fuzz-testing Using Binary-code Mutation and Dynamic Slicing](https://www.ida.liu.se/~ulfka17/papers/FSE2015.pdf)
+[Turing Programs Against Each Other- High Coverage Fuzz-testing Using Binary-code Mutation and Dynamic Slicing](https://www.ida.liu.se/~ulfka17/papers/FSE2015.pdf)
 
-【谢海疆】[symbolic execution of obfuscated code](https://www2.cs.arizona.edu/people/debray/Publications/ccs2015-symbolic.pdf)
+[symbolic execution of obfuscated code](https://www2.cs.arizona.edu/people/debray/Publications/ccs2015-symbolic.pdf)
 
-【刘穆清】[Hidden Truths in Dead Software Paths](http://www.thewhitespace.de/publications/ehmg15-deadpath.pdf)
+[Hidden Truths in Dead Software Paths](http://www.thewhitespace.de/publications/ehmg15-deadpath.pdf)
 
 ### 2015.9.25
-【支叶盛】[Reassembleable Disassembling](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-wang-shuai.pdf)
+[Reassembleable Disassembling](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-wang-shuai.pdf)
 
-【张雪雯】[Readactor: Practical Code Randomization Resilient to Memory Disclosure](https://www.ics.uci.edu/~sjcrane/papers/sjcrane15_readactor.pdf)
+[Readactor: Practical Code Randomization Resilient to Memory Disclosure](https://www.ics.uci.edu/~sjcrane/papers/sjcrane15_readactor.pdf)
 
 ### 2015.10.9
-【胡易坤】[MalGene: Automatic Extraction of Malware Analysis Evasion Signature](https://pdfs.semanticscholar.org/4f09/377086284ffed61435d4c121e5d93ededbef.pdf)
+[MalGene: Automatic Extraction of Malware Analysis Evasion Signature](https://pdfs.semanticscholar.org/4f09/377086284ffed61435d4c121e5d93ededbef.pdf)
 
-【刘穆清】[Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware](http://www.syssec-project.eu/m/page-media/3/petsas_rage_against_the_virtual_machine.pdf)
+[Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware](http://www.syssec-project.eu/m/page-media/3/petsas_rage_against_the_virtual_machine.pdf)
