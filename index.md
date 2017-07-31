@@ -78,22 +78,24 @@
  
 ## GoSSIP小组论文阅读列表
 
-### 2015.7.31
+### 2015
+
+#### 2015.7.31
 [Analyzing Memory Accesses in x86 Executables](https://research.cs.wisc.edu/wpis/papers/cc04.pdf)
 
-### 2015.8.28
+#### 2015.8.28
 [Turing Programs Against Each Other- High Coverage Fuzz-testing Using Binary-code Mutation and Dynamic Slicing](https://www.ida.liu.se/~ulfka17/papers/FSE2015.pdf)
 
 [symbolic execution of obfuscated code](https://www2.cs.arizona.edu/people/debray/Publications/ccs2015-symbolic.pdf)
 
 [Hidden Truths in Dead Software Paths](http://www.thewhitespace.de/publications/ehmg15-deadpath.pdf)
 
-### 2015.9.25
+#### 2015.9.25
 [Reassembleable Disassembling](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-wang-shuai.pdf)
 
 [Readactor: Practical Code Randomization Resilient to Memory Disclosure](https://www.ics.uci.edu/~sjcrane/papers/sjcrane15_readactor.pdf)
 
-### 2015.10.9
+#### 2015.10.9
 [MalGene: Automatic Extraction of Malware Analysis Evasion Signature](https://pdfs.semanticscholar.org/4f09/377086284ffed61435d4c121e5d93ededbef.pdf)
 
 [Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware](http://www.syssec-project.eu/m/page-media/3/petsas_rage_against_the_virtual_machine.pdf)
