@@ -2,7 +2,7 @@
 
 # 信息安全资料 
 
-## 更新时间 2017-7-31
+## 更新时间 2017-8-9
 ***
 2017-0001 [SoK: Systematic Classiﬁcation of Side-Channel Attacks on Mobile Devices]( https://arxiv.org/pdf/1611.03748.pdf)
 
@@ -72,6 +72,8 @@
 2017-0033 [BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking](https://faculty.ist.psu.edu/wu/papers/BinSim.pdf)
 
 2017-0034 [Automated Testing of Crypto Software Using Differential Fuzzing](https://131002.net/data/talks/CDFBH.pdf)
+
+2017-0035 [高通加解密引擎提权漏洞解析](http://paper.seebug.org/372/)
  
  ***
  ***
