@@ -74,6 +74,14 @@
 2017-0034 [Automated Testing of Crypto Software Using Differential Fuzzing](https://131002.net/data/talks/CDFBH.pdf)
 
 2017-0035 [高通加解密引擎提权漏洞解析](http://paper.seebug.org/372/)
+
+2017-0036 [给shellcode找块福地－ 通过VDSO绕过PXN](https://mp.weixin.qq.com/s/fVfk5aRO4bKgA4qfEX3Qlw)
+
+2017-0037 [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
+
+2017-0038 [看我如何从54G日志中溯源web应用攻击路径](https://secvul.com/topics/715.html)
+
+2017-0039 [我在全球最大的同性社交平台那点事](https://bbs.ichunqiu.com/thread-24971-1-1.html?from=beef)
  
  ***
  ***
