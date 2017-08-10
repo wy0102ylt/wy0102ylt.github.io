@@ -2,7 +2,7 @@
 
 # 信息安全资料 
 
-## 更新时间 2017-8-9
+## 更新时间 2017-8-10
 ***
 2017-0001 [SoK: Systematic Classiﬁcation of Side-Channel Attacks on Mobile Devices]( https://arxiv.org/pdf/1611.03748.pdf)
 
