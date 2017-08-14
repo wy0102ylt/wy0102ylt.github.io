@@ -276,3 +276,8 @@
 #### 2016.9.13
 
 [Automatically Detecting Error Handling Bugs using Error Specifications](http://sumanj.info/docs/epex.pdf)
+
+#### 2017.8.14
+[Code Obfuscation against Static and Dynamic Reverse Engineering](https://publik.tuwien.ac.at/files/PubDat_202725.pdf)
+
+[Hacking in Darkness: Return-oriented Programming against Secure Enclaves](https://cysec.kaist.ac.kr/publications/HackingEnclave.pdf)
